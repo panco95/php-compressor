@@ -1,7 +1,7 @@
 #Compress Your PHP code,support whole project compression
 
 
-压缩PHP代码，支持整个项目，节省40%磁盘空间！
+压缩PHP代码，支持整个项目，节省50%磁盘空间！
 
 
 How to use: Copy this file to the project root directory for execution.
